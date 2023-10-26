@@ -1,0 +1,3 @@
+package com.yonatanrs.moviedatabase.core.presentation.epoxymodel
+
+interface HasLeftRightPaddingEpoxyModel
